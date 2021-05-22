@@ -16,9 +16,7 @@
 title: Kevin Bryson
 email: kevinabryson dot gmail dot com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Kevin Bryson is a Morehouse grad in Computer Science and a current PhD student at U Chicago interested in security, privacy and machine learning.
 twitter_username: username
 github_username: cmdkev
 minimal_mistakes_skin: dark
@@ -112,20 +110,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
 
-permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago
 
 category_archive:
   type: liquid
