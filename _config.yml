@@ -85,11 +85,6 @@ footer:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
-  
-collections:
-  publications:
-    output: true
-    permalink: /:collection/:path/
 
 defaults:
   # _posts
