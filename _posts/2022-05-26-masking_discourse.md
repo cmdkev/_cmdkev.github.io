@@ -1,6 +1,10 @@
 ---
 title: "Masking Discourse"
 date: 2022-05-26T22:00:00-00:00
+categories:
+-
+tags:
+-
 ---
 
 # Project Breakdown: _Masking_ Discourse 
