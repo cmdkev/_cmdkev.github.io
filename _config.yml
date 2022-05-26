@@ -52,14 +52,14 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
 author:
   name   : "Kevin Bryson"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Morehouse Grad, U Chicago PhD."
+  bio    : "Morehouse Grad `21, U Chicago PhD."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
@@ -67,7 +67,7 @@ author:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
-    - label: "GitHub"
+    - label: "My GitHub Profile"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cmdkev"
     # - label: "Instagram"
@@ -79,9 +79,9 @@ footer:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
-    - label: "GitHub"
+    - label: "My GitHub Profile"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/cmdkev"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
