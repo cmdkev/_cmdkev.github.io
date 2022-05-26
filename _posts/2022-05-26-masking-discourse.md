@@ -1,6 +1,6 @@
 ---
 title: "Masking Discourse"
-date: 2022-05-26T22:00:00-00:00
+date: 2022-05-26T00:00:00-00:00
 categories:
   - blog
 tags:
