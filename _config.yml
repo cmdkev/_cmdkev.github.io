@@ -16,7 +16,7 @@
 title: Kevin Bryson
 email: kevinabryson dot gmail dot com
 description: >- # this means to ignore newlines until "baseurl:"
-  Kevin Bryson is a Morehouse grad in Computer Science and a current PhD student at U Chicago interested in security, privacy and machine learning.
+  Kevin Bryson is a Morehouse grad in Computer Science and a current PhD student at U Chicago interested in privacy, machine learning and security.
 twitter_username: username
 github_username: cmdkev
 minimal_mistakes_skin: dark
@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Kevin Bryson"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Morehouse Grad `21, U Chicago PhD."
+  bio    : "Morehouse Grad '21, U Chicago PhD. I'm interested in privacy, security, and HCI especially as these relate to Machine Learning algorithms and their interactions with marginalized communities."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
