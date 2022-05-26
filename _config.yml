@@ -13,9 +13,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-# Build settings
-markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 title: Kevin Bryson
 email: kevinabryson dot gmail dot com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -25,6 +22,12 @@ github_username: cmdkev
 minimal_mistakes_skin: dark
 search: true
 
+
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# theme: minimal-mistakes-jekyll
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -94,9 +97,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false
-      share: false
-      related: false
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: "_pages"
