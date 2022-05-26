@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "Masking Discourse"
 date: 2022-05-26T22:00:00-00:00
 ---
 
