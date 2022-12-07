@@ -20,7 +20,7 @@ Technology has historically found many new ways to oppress, harm and exploit mar
 
 
 #### Contact me:
-> my personal email: {{ site.email }}
+> my email: {{ site.email }}
 
 #### Writing
 If you're interested in some of my personal musings check them out [here](https://buttondown.email/kb). I write about media, photography and other things.
